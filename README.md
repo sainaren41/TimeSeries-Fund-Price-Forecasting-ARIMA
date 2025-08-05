@@ -1,6 +1,5 @@
 # TimeSeries-Fund-Price-Forecasting-ARIMA
 
-# Time Series Fund Price Forecasting using ARIMA
 
 This project demonstrates how to forecast fund prices using time series analysis and ARIMA models in Python. It includes data preprocessing, exploratory analysis, stationarity checks, model fitting, evaluation, and forecasting—all in a Jupyter Notebook.
 
